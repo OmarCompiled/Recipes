@@ -1,0 +1,19 @@
+body{
+  background-color: rgb(51, 51, 51);
+  color: white;
+  font-family: 'Courier New', Courier, monospace;
+}
+
+a{
+  color: lightblue;
+}
+
+a:visited{
+  color: rgb(90, 161, 184);
+}
+
+main{
+  max-width: 95%;
+  margin-left: auto;
+  margin-right: auto;
+}
